@@ -1,5 +1,5 @@
 ### FTP Server 
-### Michael Dankanich
+### Mike Dank
 ### v 0.1 11/12/2012
 ### A concurrent FTP server written in python
 
